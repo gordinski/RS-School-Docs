@@ -1,4 +1,4 @@
-**[← Shelter. Week-3. Requirements](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)** ░░ **[Shelter. Week-2. Requirements →](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)**
+**[← Shelter. Week-3. Requirements](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-3.%20Requirements.md)** ░░ **[Shelter. Week-2. Requirements →](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-2.%20Requirements.md)**
 
 # Shelter. Week-1 — Фиксированная вёрстка
 
