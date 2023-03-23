@@ -1,4 +1,4 @@
-**[← Shelter. Week-1. Requirements](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)**
+**[← Shelter. Week-1. Requirements](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)** ░░ **[Shelter. Week-3. Requirements →](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)**
 
 # Shelter. Week-2 — Адаптивная вёрстка
 
@@ -101,3 +101,13 @@
 | ------------------------ | ------ | ------------------ |
 | <ul><li>- [x] </li></ul> | `4/4`  | На странице `Main` |
 | <ul><li>- [x] </li></ul> | `4/4`  | На странице `Pets` |
+
+---
+
+## Штрафы `-230`
+
+| Status                   | Scores | Task                                                                                                          |
+| ------------------------ | ------ | ------------------------------------------------------------------------------------------------------------- |
+| <ul><li>- [ ] </li></ul> | `-30`  | Верстка не резиновая, т.е. при плавном изменении ширины верстка жестко переходит к конкретному размеру макета |
+| <ul><li>- [ ] </li></ul> | `-100` | Верстка всего макета или отдельных блоков добавлена картинкой                                                 |
+| <ul><li>- [ ] </li></ul> | `-100` | Использованы запрещенные техническими требованиями фреймворки, библиотеки, надстройки                         |
