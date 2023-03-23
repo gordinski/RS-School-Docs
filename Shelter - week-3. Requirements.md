@@ -1,6 +1,6 @@
 **[← Shelter. Week-2. Requirements](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-2.%20Requirements.md)** ░░ **[Shelter. Week-1. Requirements →](https://github.com/gordinski/RS-School-Docs/blob/main/Shelter%20-%20week-1.%20Requirements.md)**
 
-# Shelter. Week-3 — Добавление функционала при помощи JavaScript
+# Shelter. Week-3 — Добавление функционала при помощи JS
 
 **[Task. Week 3 →](https://github.com/rolling-scopes-school/tasks/blob/master/tasks/shelter/shelter-part3.md)**
 
